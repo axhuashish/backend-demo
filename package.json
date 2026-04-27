@@ -4,21 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "start": "node index.js"
->>>>>>> c7fffb56619a8622a78c0939a4781d016d3dbad8
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^4.18.2"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c7fffb56619a8622a78c0939a4781d016d3dbad8
